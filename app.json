@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "nu-kenzie",
-    "slug": "nu-kenzie",
+    "name": "nu-app",
+    "slug": "nu-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
